@@ -22,7 +22,6 @@ router.get("/stats", (req, res) => {
 
 //get the combined weight and total duration of the past 7 workouts in range
 router.get('/api/workouts/range', (req, res) => {
-    console.log("CALLING RANGE ROUTE")
     Workout.find().sort({ weight: -1 }).limit(7)
     .then(dbWorkouts => {
         console.log(dbWorkouts)
