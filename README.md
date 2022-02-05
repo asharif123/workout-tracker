@@ -1,6 +1,6 @@
 # workout-tracker
 
-Link to deployed app:
+Link to deployed app: https://warm-bayou-82695.herokuapp.com/?id=61feb3dd738c1e0016a12d3b
 
 Workout Tracker is a program that allows users to add and update exercises in the cardio and resistance sections.
 
