@@ -23,16 +23,16 @@ The user can also click on "Continue Workout" or "New Workout" to start a brand 
 
 When the user arrives at Add Exercise, the user can select the type of exercise (either Cardio or Resistance), and either add the exercise or complete exercise to finish adding to the workout.
 
-![alt-text](./assets/images/main-page-2.JPG "main-page-2")
+![alt-text](./public/images/main-page-2.JPG "main-page-2")
 
 # Complete Exercise
 
 When the user hits complete exercise, the user is able to see the completed exercise containing all the stat including duration, exercises performed, and total reps performs.
 
-![alt-text](./assets/images/main-page-3.JPG "main-page-3")
+![alt-text](./public/images/main-page-3.JPG "main-page-3")
 
 # Stats
 
 The user is able to see the graphical representation of the most recent workouts including the workout duration and the combined weight.
 
-![alt-text](./assets/images/main-page-4.JPG "main-page-4")
+![alt-text](./public/images/main-page-4.JPG "main-page-4")
