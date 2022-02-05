@@ -7,7 +7,7 @@ Workout Tracker is a program that allows users to add and update exercises in th
 The user can also log multiple exercises in a workout on a given day, track the name, type, weight, sets, reps, and duration of exercise. 
 
 This was created using HTML, CSS, Javascript to define frontend/backend code, 
-Express.js, and Mongoose library to define the backend code and allos users to add, view stats of last 7 workouts.
+Express.js, and Mongoose library to define the backend code and allows users to add, view stats of last 7 workouts.
 
 
 # Main Page
