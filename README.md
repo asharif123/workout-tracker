@@ -16,7 +16,7 @@ When the user arrives to the main webpage, the user can see the most recent work
 
 The user can also click on "Continue Workout" or "New Workout" to start a brand new workout.
 
-![alt-text](./assets/images/main-page-1.JPG "main-page-1")
+![alt-text](./public/images/main-page-1.JPG "main-page-1")
 
 
 # Add Exercise
